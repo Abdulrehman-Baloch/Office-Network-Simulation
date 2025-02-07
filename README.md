@@ -59,12 +59,6 @@ This project simulates a corporate office network for a multi-department organiz
 3. Use CLI commands to verify routing, DHCP, and NAT functionality.
 4. Perform connectivity tests using the `ping` command.
 
-## Author
-**M. Abdulrehman**  
-Student ID: 22I-1182  
-Course: Computer Networks  
-FAST, Islamabad  
-
 ## License
 This project is open-source and available for educational purposes.
 
